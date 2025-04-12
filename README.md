@@ -52,7 +52,7 @@ Both tokens are thoroughly tested using Foundry's testing framework, ensuring re
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/solidity-token-suite.git
+   git clone https://github.com/rocknwa/solidity-token-suite.git
    cd solidity-token-suite
    ```
 
