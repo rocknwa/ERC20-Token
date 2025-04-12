@@ -113,7 +113,4 @@ contract OurTokenTest is StdCheats, Test {
         vm.expectRevert(); 
         ourToken.transferFrom(bob, alice, allowanceAmount + 1);
     }
-
-    // Additional tests can be added as needed to further increase coverage.
-    // can you get the coverage up?
 }
